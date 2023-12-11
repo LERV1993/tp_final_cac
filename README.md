@@ -10,7 +10,9 @@ CRUD java jsp con SQL  -  MVC
 
 ## Acerca del tp
 
-• SE definio un controlador donde se derivan segun las peticiones a este a las vistas o se realiza alguna transacción de sql.
+• El trabajo practico utiliza tomcat configurado en el puerto 8081 ya que se utiliza en paralelo con xampp para la base de datos en el puerto 8080.
+
+• Se definio un controlador donde se derivan segun las peticiones a este a las vistas o se realiza alguna transacción de sql.
 
 • Se definio el modelo "Usuario" con sus respectivos getters y setters.
 
