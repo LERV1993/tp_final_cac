@@ -18,9 +18,9 @@ CRUD java jsp con SQL  -  MVC
 
 • Se definio el usuario DAO el cual posee la logica para poder llamar a la conexión a la base de datos y sus respectivas transacciones.
 
-• Se creo una conexión a la base de datos que crea la tabla necesaria en caso de no existir de manera automatica.
+• Se creo una conexión a la base de datos que crea la tabla necesaria en caso de no existir de manera automática.
 
-• Se utiliza bootstrap para la estetica.
+• Se utiliza bootstrap para la estética.
 
 ## Authors
 
